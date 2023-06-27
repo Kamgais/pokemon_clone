@@ -1,0 +1,150 @@
+{
+  "pokemons": [
+    {
+      "id": 5,
+      "name": "Roucool",
+      "hp": 30,
+      "cp": 7,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/016.png",
+      "types": [
+        "Normal",
+        "Flug"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Rattata",
+      "hp": 18,
+      "cp": 6,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/019.png",
+      "types": [
+        "Normal",
+        "Insekt",
+        "Wasser"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Piafabec",
+      "hp": 14,
+      "cp": 5,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/021.png",
+      "types": [
+        "Normal",
+        "Flug"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Pikachu",
+      "hp": 21,
+      "cp": 7,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png",
+      "types": [
+        "Electrik"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Sabelette",
+      "hp": 19,
+      "cp": 3,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/027.png",
+      "types": [
+        "Normal"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Mélofée",
+      "hp": 25,
+      "cp": 5,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/035.png",
+      "types": [
+        "Baum"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Groupix",
+      "hp": 17,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/037.png",
+      "types": [
+        "Feuer"
+      ]
+    },
+    {
+      "id": 1655004271664,
+      "hp": 100,
+      "cp": 10,
+      "name": "Marco",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/100.png",
+      "types": [
+        "Insekt",
+        "Electrik",
+        "Feuer"
+      ]
+    },
+    {
+      "id": 1655118432150,
+      "hp": 100,
+      "cp": 10,
+      "name": "Cyril",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/200.png",
+      "types": [
+        "Normal",
+        "Wasser",
+        "Feuer"
+      ]
+    },
+    {
+      "id": 1655139217579,
+      "hp": "453",
+      "cp": "58",
+      "name": "Mappou",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/600.png",
+      "types": [
+        "Normal",
+        "Feuer",
+        "Baum"
+      ]
+    },
+    {
+      "id": 1655389877188,
+      "hp": 100,
+      "cp": 10,
+      "name": "Jonas",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/900.png",
+      "types": [
+        "Normal",
+        "Baum",
+        "Electrik"
+      ]
+    },
+    {
+      "id": 1656104158213,
+      "hp": "400",
+      "cp": "90",
+      "name": "Jasper",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/430.png",
+      "types": [
+        "Normal",
+        "Feuer",
+        "Pflanze"
+      ]
+    },
+    {
+      "id": 1656508019010,
+      "hp": "300",
+      "cp": "99",
+      "name": "Martin",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/400.png",
+      "types": [
+        "Normal",
+        "Wasser",
+        "Electrik"
+      ]
+    }
+  ]
+}
